@@ -1,8 +1,8 @@
-ECC-Secure-Payment-System:
+# ECC-Secure-Payment-System: #
 
 A modern, user-friendly digital payment platform that leverages Elliptic Curve Cryptography (ECC) to ensure secure, authenticated, and efficient transactions. This project demonstrates how advanced cryptography can be integrated with a streamlined web interface to deliver robust payment security and a seamless user experience.
 
-🚀 Features
+## Features ##
 ECC-Based Encryption: All sensitive transaction data is encrypted using ECC, providing strong security with smaller, faster keys compared to traditional algorithms.
 
 Digital Signatures (ECDSA): Each transaction is signed with the sender's private key and verified using the public key, ensuring authenticity and integrity.
@@ -20,7 +20,7 @@ Session Management & Validation: Includes robust session handling, input validat
 Optional Stripe Integration: Ready for integration with Stripe API for real-world payment tokenization and processing.
 
 
-Technology Stack:
+## Technology Stack: ##
 Frontend: Streamlit, Shadcn UI, Streamlit Option Menu, PIL, Pandas
 
 Backend: Python, Flask, RESTful APIs
